@@ -1,11 +1,15 @@
+
 """
+Autor: Steven Leiva.
+Grupo 5.
+
 Interface Segregation Principle
 
-No Client should be forced to depend on methods it does not use.
+Ningún Cliente debe ser forzado a depender de métodos que no utiliza.
 
-OR
+O
 
-An interface should describe one set of behaviours
+Una interfaz debe describir un conjunto de comportamientos
 """
 from abc import abstractmethod
 
