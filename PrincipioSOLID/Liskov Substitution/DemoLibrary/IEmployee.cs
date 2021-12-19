@@ -1,4 +1,6 @@
-﻿namespace DemoLibrary
+﻿/* Autor: Steven leiva*/
+/* Grupo 5*/
+namespace DemoLibrary
 {
     public interface IEmployee
     {
